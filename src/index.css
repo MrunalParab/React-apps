@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  background-color:aliceblue;
+  min-height: 100vh;
+}
+
+.notfound{
+  text-align: center;
+  margin-top: 200px;
+  font-size:70px;
+}
+
+.table{
+  text-align: center;
+  height: 1px;
+}
+
